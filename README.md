@@ -10,10 +10,10 @@
 1) in index.html oberhalb app.js das ergänzen
 
 ```js
-    <script src="https://cdn.jsdelivr.net/npm/vue@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@3"></script>
 ```
 
-2) in app.js das
+2) in app.js einfügen
 
 ```js
 Vue.createApp({
